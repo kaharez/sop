@@ -11,7 +11,7 @@ institutional duties. It is not a legislative or executive body.
 
 ## 2. Structure
 
-- **The Court consists of:**
+### The Court consists of
 - Household of the Sovereign
 - Royal Protocol
 - Purveyors to the Court
@@ -25,13 +25,13 @@ institutional duties. It is not a legislative or executive body.
 
 - **Keeper of the Privy Purse:** Administers the private finances of the Sovereign and Royal Household.
 
-Household Steward (where appointed):
-Oversees residence readiness, hosting arrangements, and interface with
-approved purveyors for events and receptions.
+### Household Steward (where appointed)
+Oversees residence readiness, hosting arrangements, and interface with approved
+purveyors for events and receptions.
 
 ## 4. Royal Protocol
 
-- **Duties include:**
+### Duties include
 - Arranging audiences and ceremonial events.
 - Advising on dress, etiquette, and precedence.
 - Managing diplomatic receptions.
