@@ -6,12 +6,18 @@ order: 10
 # X. PROCEDURAL APPENDICES
 
 Appendix A — Workflow for Royal Decrees
-1. Drafting request initiated by competent Office with authority clause.
-2. Preparation by Royal Chancellery using approved templates and numbering.
-3. Legal review by Office of Laws & Justice; revisions returned if needed.
-4. Final text submitted to the Secretary of State; briefing to the Sovereign.
-5. Sovereign approval; Great Seal affixed where required.
-6. Registration in the Register of Instruments; Gazette publication with
+
+## 1. Drafting request initiated by competent Office with authority clause.
+
+## 2. Preparation by Royal Chancellery using approved templates and numbering.
+
+## 3. Legal review by Office of Laws & Justice; revisions returned if needed.
+
+## 4. Final text submitted to the Secretary of State; briefing to the Sovereign.
+
+## 5. Sovereign approval; Great Seal affixed where required.
+
+## 6. Registration in the Register of Instruments; Gazette publication with
    reference number and metadata.
 
 Appendix B — Gazette Publication Standards

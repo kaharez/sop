@@ -5,18 +5,22 @@ order: 7
 ---
 # VII. SECTION I — GENERAL AFFAIRS & NATIONAL ADMINISTRATION
 
-Offices:
-1. Office of Government Communications & Public Information
-2. Office of Citizenship, Identity & Naturalisation
-3. Office of Laws & Justice
-4. Office of State Ceremonies & Protocol
+- **Offices:**
 
-Expanded Functions:
+## 1. Office of Government Communications & Public Information
+
+## 2. Office of Citizenship, Identity & Naturalisation
+
+## 3. Office of Laws & Justice
+
+## 4. Office of State Ceremonies & Protocol
+
+- **Expanded Functions:**
 - Management of national information systems.
 - Coordination with Royal Chancellery for legal publications.
 - Protocol for state-level and ceremonial events.
 
-Operational focus and outputs:
+- **Operational focus and outputs:**
 - Office of Government Communications & Public Information
   - Publishes the Royal Gazette and maintains permanent URLs and archives.
   - Issues public statements, FAQs, and design assets for government channels.
@@ -38,7 +42,7 @@ Operational focus and outputs:
   - Clears invitations, seating, and regalia use for all state events.
   - Coordinates rehearsals and venue logistics with the Royal Court.
 
-Interfaces:
+- **Interfaces:**
 - Works daily with the Royal Chancellery to authenticate and release documents.
 - Shares identity data standards with Digital Government; security posture
   aligns with national data protection controls.
