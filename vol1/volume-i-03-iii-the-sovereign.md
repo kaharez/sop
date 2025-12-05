@@ -5,15 +5,14 @@ order: 3
 ---
 # III. THE SOVEREIGN
 
-## 1. Constitutional Position
+1. Constitutional Position
 The Sovereign is the embodiment of the Kaharagian nation and the guardian of
 its identity, continuity, and legal order. In the absence of territorial
 jurisdiction, the Sovereign maintains sovereign dignity and authority as the
 representative of a living national community.
 
-## 2. Principal Powers
-
-## The Sovereign exercises the following responsibilities
+2. Principal Powers
+The Sovereign exercises the following responsibilities:
 - Signs Royal Decrees, Letters Patent, Charters, and Warrants.
 - Grants national honours.
 - Approves diplomatic appointments.
@@ -21,15 +20,14 @@ representative of a living national community.
 - Ratifies legal codes and reforms.
 - Serves as Commander of the Armed Forces (future structure).
 
-## 3. Communications
-
-## The Sovereign communicates principally through
+3. Communications
+The Sovereign communicates principally through:
 - Royal Decrees
 - Letters Patent
 - Royal Messages
 - Statements published in the Royal Gazette
 
-## 4. Decision and endorsement process
+4. Decision and endorsement process
 - Matters requiring the Great Seal: issued through the Royal Chancellery after
   legal review by the Office of Laws & Justice and countersignature by the
   Secretary of State.
@@ -39,7 +37,7 @@ representative of a living national community.
   cryptographic credentials and published in the Gazette without delay, with
   retrospective archival sealing.
 
-## 5. Continuity and succession
+5. Continuity and succession
 - In the event of incapacity or communications outage, the Continuity of
   Government framework (Section XXXVII) governs temporary delegation to the
   Secretary of State and Deputy Secretaries.
@@ -47,7 +45,7 @@ representative of a living national community.
   Sovereign at the earliest opportunity and reissued under the Great Seal if
   required.
 
-## 6. Counsel and accountability
+6. Counsel and accountability
 - The Sovereign receives advice from the Secretary of State, Deputy
   Secretaries, and the Chief Herald on matters of identity, ceremony, and
   institutional integrity.
@@ -55,7 +53,7 @@ representative of a living national community.
   transparency; summaries are published in the Gazette to preserve public
   confidence.
 
-## 7. Public-facing standards
+7. Public-facing standards
 - Communications from the Sovereign must use formal, dignified language and be
   accessible in official channels maintained by the Office of Government
   Communications.

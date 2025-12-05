@@ -5,22 +5,21 @@ order: 6
 ---
 # VI. SECRETARIAT OF STATE — STRUCTURE AND LEADERSHIP
 
-## 1. Secretary of State
+1. Secretary of State
 The head of government operations; coordinates all Sections and Offices.
 
-## 2. Assistant Secretary of State
+2. Assistant Secretary of State
 Supports daily functioning and continuity of governance.
 
-## 3. Sections and Undersecretaries
-
-## The Secretariat operates through three Sections
+3. Sections and Undersecretaries
+The Secretariat operates through three Sections:
 - Section for General Affairs & National Administration
 - Section for External Relations & International Presence
 - Section for Cultural, Academic & Digital Nation-Building
 
 Each Section is led by an Undersecretary of State.
 
-## 4. Core leadership functions
+4. Core leadership functions
 - Strategic direction: sets national priorities, allocates resources, and
   translates Sovereign guidance into actionable programmes.
 - Procedural oversight: ensures every instrument, publication, and ceremonial
@@ -31,14 +30,14 @@ Each Section is led by an Undersecretary of State.
   Undersecretaries; issues corrective instructions where targets or standards
   are missed.
 
-## 5. Assistant Secretary of State — continuity remit
+5. Assistant Secretary of State — continuity remit
 - Keeps the Secretariat operating during leadership transitions or absences,
   activating continuity protocols when needed.
 - Screens submissions to the Secretary of State for completeness, legal review,
   and publication readiness.
 - Maintains cross-Section issue logs and deadlines; escalates blockers.
 
-## 6. Reporting and governance cadence
+6. Reporting and governance cadence
 - Weekly: Section coordination chaired by the Secretary or Assistant Secretary.
 - Monthly: Directorate performance review; risks logged with mitigation plans.
 - Quarterly: Compliance and archival review with the Royal Chancellery and
@@ -46,7 +45,7 @@ Each Section is led by an Undersecretary of State.
 - Annual: Strategic review and update of this Manual; results published in the
   Gazette for transparency.
 
-## 7. Digital and security posture
+7. Digital and security posture
 - All leadership submissions use authenticated channels approved by the Office
   of Digital Government & Cybersecurity.
 - Sensitive instruments (treaties, honours, identity) require two-person

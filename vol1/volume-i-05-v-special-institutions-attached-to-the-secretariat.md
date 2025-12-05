@@ -5,9 +5,8 @@ order: 5
 ---
 # V. SPECIAL INSTITUTIONS ATTACHED TO THE SECRETARIAT
 
-## 1. Royal Chancellery (Deputy Secretary of State)
-
-## Responsibilities
+1. Royal Chancellery (Deputy Secretary of State)
+Responsibilities:
 - Drafting, registration, sealing, and issuance of Royal Decrees.
 - Custodianship of the Great Seal.
 - Certification of official instruments.
@@ -18,9 +17,8 @@ order: 5
 - Provides procedural guidance to all Offices on format, numbering, and
   submission protocols.
 
-## 2. Chancellery of Honours (Deputy Secretary of State)
-
-## Responsibilities
+2. Chancellery of Honours (Deputy Secretary of State)
+Responsibilities:
 - Managing Orders, Decorations, and Medals.
 - Maintaining the Register of Honours.
 - Organising investiture ceremonies.
@@ -32,9 +30,8 @@ order: 5
 - Publishes honours lists in the Gazette and ensures citations are preserved
   for public record and archival integrity.
 
-## 3. Institute of Heraldry (Deputy Secretary of State)
-
-## Responsibilities
+3. Institute of Heraldry (Deputy Secretary of State)
+Responsibilities:
 - Granting arms, flags, and badges.
 - Maintaining national heraldic registers.
 - Overseeing heraldic design standards.
