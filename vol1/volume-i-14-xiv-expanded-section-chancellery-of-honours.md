@@ -5,18 +5,18 @@ order: 14
 ---
 # XIV. EXPANDED SECTION: CHANCELLERY OF HONOURS
 
-### 1. Structure
+## 1. Structure
 
-### The Chancellery consists of
+## The Chancellery consists of
 - Secretary of the Honours Chancellery
 - Registrar of Honours
 - Ceremonial Director
 - Insignia and Manufacturing Coordinator
 - Research Officers
 
-### 2. Honours System Governance (Expanded)
+## 2. Honours System Governance (Expanded)
 
-### The Chancellery ensures
+## The Chancellery ensures
 - Fair and transparent nomination procedures.
 - Maintenance of detailed individual records.
 - Preservation of historical information about every award.
@@ -27,9 +27,9 @@ order: 14
 - Publishes honours lists and citations in the Gazette; maintains public
   summaries and restricted service notes where necessary.
 
-### 3. Insignia Standards (Expanded)
+## 3. Insignia Standards (Expanded)
 
-### All insignia must meet standards of
+## All insignia must meet standards of
 - Durability
 - Artistic quality
 - National symbolism
@@ -41,9 +41,9 @@ The Institute of Heraldry provides oversight of heraldic elements in insignia.
 - Replacement protocols require verification of loss/damage and reissue
   records in the Register of Honours.
 
-### 4. Ceremony Protocol (Expanded)
+## 4. Ceremony Protocol (Expanded)
 
-### Investitures must follow
+## Investitures must follow
 - Approved ceremonial forms
 - Order of precedence
 - Proper dress codes

@@ -5,36 +5,36 @@ order: 4
 ---
 # IV. THE ROYAL COURT
 
-### 1. Overview
+## 1. Overview
 The Royal Court supports the Sovereign in their ceremonial, symbolic, and
 institutional duties. It is not a legislative or executive body.
 
-### 2. Structure
+## 2. Structure
 
-### The Court consists of
+## The Court consists of
 - Household of the Sovereign
 - Royal Protocol
 - Purveyors to the Court
 - Court Officers
 
-### 3. Household Roles (Expanded)
+## 3. Household Roles (Expanded)
 
-### Master of the Household
+## Master of the Household
 Responsible for managing ceremonial spaces, logistics, planning, and Court staff.
 
-### Private Secretary
+## Private Secretary
 Coordinates personal and official correspondence of the Sovereign.
 
-### Keeper of the Privy Purse
+## Keeper of the Privy Purse
 Administers the private finances of the Sovereign and Royal Household.
 
-### Household Steward (where appointed)
+## Household Steward (where appointed)
 Oversees residence readiness, hosting arrangements, and interface with
 approved purveyors for events and receptions.
 
-### 4. Royal Protocol
+## 4. Royal Protocol
 
-### Duties include
+## Duties include
 - Arranging audiences and ceremonial events.
 - Advising on dress, etiquette, and precedence.
 - Managing diplomatic receptions.
@@ -43,7 +43,7 @@ approved purveyors for events and receptions.
 - Verifying honours insignia and regalia placement in coordination with the
   Chancellery of Honours and Institute of Heraldry.
 
-### 5. Purveyors to the Court
+## 5. Purveyors to the Court
 Purveyors are approved providers of goods and services distinguished by
 exemplary quality. They receive a Royal Warrant and are authorised to display
 the relevant heraldic device.
@@ -54,7 +54,7 @@ the relevant heraldic device.
 - Branding: heraldic device must follow design rules issued by the Institute
   of Heraldry and placement rules set by Royal Protocol.
 
-### 6. Coordination and governance
+## 6. Coordination and governance
 - The Royal Court operates in close consultation with the Secretariat of State
   on protocol, security, and communications; all formal outputs are registered
   through the Royal Chancellery for archival completeness.

@@ -5,7 +5,7 @@ order: 2
 ---
 # II. INTERPRETATION AND DEFINITIONS
 
-### For the purposes of this Manual
+## For the purposes of this Manual
 
 “Sovereign” refers to the head of state of the Principality of Kaharagia.
 
@@ -52,7 +52,7 @@ by the Principality for secure access to government systems.
 “Gazette Notice” refers to any authenticated publication in the Royal Gazette,
 including decrees, appointments, ceremonial announcements, and archival notices.
 
-### Interpretive guidance
+## Interpretive guidance
 - Capitalised terms have the meanings above unless context demands otherwise.
 - Where terminology overlaps across Sections, the stricter or more specific
   definition applies.

@@ -1,6 +1,6 @@
 # Final Index
 
-### Volume I Manual
+## Volume I Manual
 - 00 — [Front Matter — Volume I Manual](volume-i-00-front-matter.md)
 - 01 — [I. PURPOSE AND SCOPE OF THE MANUAL](volume-i-01-i-purpose-and-scope-of-the-manual.md)
 - 02 — [II. INTERPRETATION AND DEFINITIONS](volume-i-02-ii-interpretation-and-definitions.md)
@@ -63,7 +63,7 @@
 - 64 — [LXIV. DIPLOMATIC IMAGE & REPUTATION MANAGEMENT](volume-i-64-lxiv-diplomatic-image-reputation-management.md)
 - 65 — [LXV. FINAL CONSOLIDATED PRINCIPLES OF GOVERNANCE](volume-i-65-lxv-final-consolidated-principles-of-governance.md)
 
-### Government Structure Overview
+## Government Structure Overview
 - 00 — [Front Matter — Government Structure Overview](structure-00-front-matter.md)
 - 01 — [I. THE SOVEREIGN (DŽOVERÁT)](structure-01-i-the-sovereign-dzoverat.md)
 - 02 — [II. THE ROYAL COURT OF KAHARAGIA](structure-02-ii-the-royal-court-of-kaharagia.md)
