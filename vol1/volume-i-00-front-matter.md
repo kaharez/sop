@@ -17,7 +17,7 @@ policy, ceremonial programmes, or legal instruments. Updates are issued by the
 Secretary of State upon instruction of the Sovereign and are recorded in the
 Royal Gazette.]
 
-How to use this manual:
+## How to use this manual
 - Consult Section I for scope and authority before applying any procedure.
 - Check the “order” metadata in each file to follow the canonical sequence.
 - For forms and examples, see the documentary templates in Section XXXVI.

@@ -53,7 +53,8 @@ Specifies how and when the law takes effect.
 Indicate which prior instruments are affected.
 
 ### I. Signature and Seal
-Must include:
+
+## Must include
 - **Sovereign’s signature**
 - **Authentication by the Clerk of the Royal Chancellery**
 - **Great Seal affixed**
@@ -65,12 +66,14 @@ Must include:
 - Include schedules for lists, technical standards, or transitional provisions.
 
 ## 5. References and Citations
-When referencing other legal instruments:
+
+## When referencing other legal instruments
 - Use full citation format: **“Royal Decree No. [Number]/[Year]”**.
 - For treaties: include **title, date, and parties**.
 
 ## 6. Amendments
-Amendments must specify:
+
+## Amendments must specify
 - the exact text to be replaced,
 - the new text,
 - whether changes are temporary or permanent.
