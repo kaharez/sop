@@ -10,7 +10,7 @@ The Royal Court supports the Sovereign’s ceremonial, symbolic, cultural,
 and administrative responsibilities. Its purpose is to uphold the dignity of
 the Crown and ensure the proper environment for the Sovereign’s work.
 
-- **The Court serves as:**
+### The Court serves as:
 - The ceremonial arm of the state.
 - The custodian of heritage and protocol.
 - The centre of national symbolism and representation.
