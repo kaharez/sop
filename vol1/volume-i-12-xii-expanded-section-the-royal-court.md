@@ -39,10 +39,10 @@ approved purveyors for events and receptions.
 - Master of the Household
 Oversees all Court departments and staff; ensures efficiency and ceremony.
 
-- Marshal of the Court (optional future role)
+- Marshal of the Court
 Directs ceremonial movements and public events involving the Sovereign.
 
-- Chaplain to the Court (optional future role)
+- Chaplain to the Court
 Provides pastoral and moral support as needed; non-denominational due to
 Kaharagia’s inclusive civic character.
 
@@ -55,13 +55,13 @@ Oversees preservation of artworks, artifacts, documents, and symbolic items.
 
 ## 4. Purveyors System (Expanded)
 
-- **Royal Warrants are issued to businesses demonstrating:**
+**Royal Warrants are issued to businesses demonstrating:**
 - Exceptional quality
 - Reliability
 - Innovation
 - Ethical standards aligning with national values
 
-- **Purveyors must:**
+**Purveyors must:**
 - Maintain consistent excellence.
 - Display the Royal Badge only as authorised.
 - Renew warrants every five years or upon review.
