@@ -10,7 +10,7 @@ formal documents issued by or under the authority of the Sovereign. These
 templates standardise presentation, ensure legal clarity, and preserve the
 dignity of state instruments.
 
-### A. Template: ROYAL DECREE
+#### A. Template: ROYAL DECREE
 ```text
 [Heading]
 PRINCIPALITY OF KAHARAGIA
@@ -45,7 +45,7 @@ Clerk of the Royal Chancellery
 Great Seal affixed.
 ```
 
-### B. Template: LETTER PATENT
+#### B. Template: LETTER PATENT
 ```text
 [Heading]
 PRINCIPALITY OF KAHARAGIA
@@ -73,7 +73,7 @@ Executed at [location or digital equivalent] this [date].
 Clerk of the Royal Chancellery.
 ```
 
-### C. Template: ROYAL WARRANT
+#### C. Template: ROYAL WARRANT
 ```text
 [Heading]
 ROYAL WARRANT
@@ -94,7 +94,7 @@ Sovereign of Kaharagia
 Countersigned: Clerk of the Royal Chancellery
 ```
 
-### D. Template: GAZETTE NOTICE
+#### D. Template: GAZETTE NOTICE
 ```text
 [Heading]
 ROYAL GAZETTE
@@ -111,7 +111,7 @@ Authenticated by the Royal Chancellery
 Reference Number: [XXXX]
 ```
 
-### E. Template: DIPLOMATIC NOTE
+#### E. Template: DIPLOMATIC NOTE
 ```text
 [Heading]
 NOTE VERBALE
@@ -133,7 +133,7 @@ Principality of Kaharagia
 Date: [Day Month Year]
 ```
 
-### F. Template: ADMINISTRATIVE NOTICE
+#### F. Template: ADMINISTRATIVE NOTICE
 ```text
 [Heading]
 ROYAL GAZETTE
@@ -150,7 +150,7 @@ Published by the Office of Government Communications
 Reference Number: [XXXX]
 ```
 
-## Usage notes
+### Usage notes
 - All templates must be completed with correct numbering, authority clauses,
   and dates before submission to the Royal Chancellery.
 - Digital versions must include approved signatures/hashes; physical versions

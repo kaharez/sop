@@ -5,20 +5,20 @@ order: 9
 ---
 # IX. SECTION III — CULTURAL, ACADEMIC & DIGITAL NATION-BUILDING
 
-## Offices
+### Offices
 
-## 1. Office of Culture, Language & Heritage
+### 1. Office of Culture, Language & Heritage
 
-## 2. Office of Education, Science & Innovation
+### 2. Office of Education, Science & Innovation
 
-## 3. Office of Digital Government & Cybersecurity
+### 3. Office of Digital Government & Cybersecurity
 
-## Expanded Functions
+### Expanded Functions
 - Governance of national digital identity systems.
 - Oversight of cultural preservation projects.
 - Development of educational partnerships.
 
-## Operational focus and outputs
+### Operational focus and outputs
 - **Office of Culture, Language & Heritage**
   - Curates national symbols, language standards, and cultural programming.
   - Manages heritage archives and coordinates with the Royal Chancellery for
@@ -40,7 +40,7 @@ order: 9
   - Maintains data classification policies, access controls, and encryption
     baselines across all Offices.
 
-## Interfaces
+### Interfaces
 - Works with Institute of Heraldry on cultural and symbolic materials.
 - Aligns education and innovation programmes with external relations to
   showcase national achievements.
