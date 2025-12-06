@@ -10,7 +10,7 @@ culture, and legitimacy, and the embodiment of the Kaharagian people. Even
 without physical territory, the Sovereign maintains full sovereign dignity
 and institutional authority.
 
-- **Core Functions:**
+## Core Functions:
 - Source of legal authority and constitutional legitimacy.
 - Protector of the Kaharagian language, culture, symbols, and traditions.
 - Fountain of Honour: grants all Orders, Decorations, and Medals.
