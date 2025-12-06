@@ -9,13 +9,13 @@ The Royal Court is the ceremonial, symbolic, and household institution that
 supports the Sovereign personally. It is separate from the governmental
 Secretariat of State.
 
-Overseen by the ==Marshal of the Court==.
+Overseen by the <mark>**Marshal of the Court**</mark>.
 
 ### A. Household of the Sovereign
-- Master of the Household: oversees operations of the Court.
-- Keeper of the Privy Purse: manages financial matters of the Court.
-- Private Secretary to the Sovereign: handles personal correspondence.
-- Royal Archivist: maintains historical records of the Court.
+- **Master of the Household:** oversees operations of the Court.
+- **Keeper of the Privy Purse:** manages financial matters of the Court.
+- **Private Secretary to the Sovereign:** handles personal correspondence.
+- **Royal Archivist:** maintains historical records of the Court.
 
 ### B. Royal Protocol (works closely with Secretariat Section I)
 - Manages audiences, ceremonies, receptions, and precedence.
