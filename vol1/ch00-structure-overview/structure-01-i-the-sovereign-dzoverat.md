@@ -1,5 +1,5 @@
 ---
-title: "I. THE SOVEREIGN (DŽOVERÁT)"
+title: "I. THE SOVEREIGN"
 section: "Structure"
 order: 1
 ---
