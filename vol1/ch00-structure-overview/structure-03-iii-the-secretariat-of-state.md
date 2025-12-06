@@ -20,8 +20,6 @@ It coordinates all governmental functions, both internal and external.
 
 ### C. Deputy Secretaries of State (each leading a special institution)
 
-## 1. Clerk of the Royal Chancellery
-
-## 2. Secretary of the Chancellery of Honours
-
-## 3. Chief Herald of Kaharagia
+1. Clerk of the Royal Chancellery
+2. Secretary of the Chancellery of Honours
+3. Chief Herald of Kaharagia
